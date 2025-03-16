@@ -1,0 +1,19 @@
+import React from "react";
+import "./DescriptionBox.css";
+
+const DescriptionBox = () => {
+    return (
+        <div className="descriptionbox">
+            <div className="descriptionbox-navigator">
+                <div className="descriptionbox-nav-box">Description</div>
+                <div className="descriptionbox-nav-box fade">Reviews (120)</div>
+            </div>
+            <div className="descriptionbox-description">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic unde minima nam, veritatis dolorum obcaecati quidem odit saepe molestias optio voluptas, consectetur fugit tempora nihil adipisci quibusdam ipsam deserunt distinctio necessitatibus nemo laudantium voluptate illo. Nostrum libero vero doloremque, quae temporibus debitis eius impedit facere beatae soluta eaque similique quibusdam distinctio enim sit numquam optio! Soluta repudiandae sapiente praesentium minima a exercitationem magni laudantium illo cupiditate quo. Corporis dolor dicta ad quis consequuntur? Nisi, nobis. Esse praesentium dicta odio soluta suscipit, veritatis inventore et reiciendis facere nulla incidunt, aliquam rem sequi. Mollitia praesentium consectetur repudiandae numquam tempora exercitationem, hic aliquam voluptas eaque architecto deleniti, veniam necessitatibus officiis delectus saepe blanditiis omnis atque ea est iusto deserunt accusamus ut? Qui est deserunt at quidem eum? Nam laboriosam reprehenderit accusantium molestias, hic autem molestiae iste similique enim deleniti in soluta numquam consequatur explicabo laudantium consequuntur sit corporis praesentium magnam quod eum delectus. Rem pariatur incidunt veritatis ratione laborum, debitis, ducimus ipsa fugiat ab molestias nemo alias labore officia quasi possimus. Veniam eligendi a error dolore aliquam animi quidem ut voluptatibus molestiae, est exercitationem unde, dolorum omnis. Et laboriosam laborum ipsam debitis est, quidem sequi iusto perferendis autem. Provident aliquid, fugit dicta perferendis doloremque sequi ea ad nostrum minus necessitatibus ipsam recusandae perspiciatis officia optio maxime rerum totam amet possimus cupiditate consequatur repellendus odio maiores. Nostrum, voluptatum non!</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic et repudiandae repellendus blanditiis quis distinctio beatae, perferendis minima. Deleniti consectetur odit iure, voluptatibus architecto et officiis inventore vero nemo nam modi voluptates officia reiciendis sed dignissimos? Distinctio ut iste, quod nesciunt numquam placeat modi quam eveniet. Et, deleniti reiciendis, repudiandae placeat optio veritatis eius sed necessitatibus nisi, animi maiores sequi dicta at repellat beatae pariatur. Voluptate eum quasi libero magnam praesentium impedit doloremque quod officia similique officiis, a blanditiis pariatur, accusamus, odio iste voluptas inventore animi ipsum nesciunt quidem. Nisi perspiciatis rerum repudiandae ipsam, natus amet ratione repellendus aliquam doloribus maiores ex unde optio quis velit voluptate aut eum! Cum tempore saepe cumque delectus non magnam error sint modi provident, corporis hic similique ullam! Quam ratione, sint, quas quasi incidunt in qui voluptatem perferendis, nemo veniam repellendus earum! Eligendi optio, omnis laboriosam similique libero autem dolore sit ab a aut nisi alias quae ipsum expedita hic, quia laudantium quo soluta voluptas, nesciunt nobis facere. Libero earum voluptate assumenda adipisci, delectus similique rem fugit sunt iure esse ab quas id vero commodi perferendis! Sed corporis, dolor blanditiis inventore maiores, repellat vitae reprehenderit ipsa libero molestiae, velit provident voluptatem voluptatibus! Ipsam fuga libero optio sapiente blanditiis. Expedita odit impedit itaque atque.</p>
+            </div>
+        </div>
+    );
+}
+
+export default DescriptionBox;
